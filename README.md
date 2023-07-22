@@ -3,7 +3,7 @@ The Employee Review System is a Streamlit application that enables managers and 
 
 [Project Link](https://employee-review.azurewebsites.net/)
 
-[Project Demo Link]()
+[Project Demo Link](https://www.youtube.com/watch?v=hLzfiogDQJc)
 
 ## Python Packages
 * streamlit
