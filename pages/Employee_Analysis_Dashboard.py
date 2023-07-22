@@ -8,7 +8,6 @@ from azure.core.credentials import AzureKeyCredential
 categories = ['Job Peformance', 'Skills and Competencies', 'Initiative and Innovation', 'Reliability and Dependability',
               'Collaboration and Teamwork', 'Professionalism and Ethics', 'Continuous Learning and Development']
 
-
 def setup_azure_cognitive_services():
     api_key = "a74934736e334832b31f47c892a8a010"
     endpoint = "https://language-system-review.cognitiveservices.azure.com/"
