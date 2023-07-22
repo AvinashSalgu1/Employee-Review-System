@@ -1,5 +1,5 @@
 # Employee Review System
-The Employee Review System is a Streamlit application that enables managers and higher ups to review their employees and provide ratings on various aspects. It also allows the user to leave comments about their professors. The app includes a dashboard that analyzes the ratings using a radar plot and performs sentiment analysis on the received comments.
+The Employee Review System is a Streamlit application that enables managers and higher ups to review their employees and provide ratings on various aspects. It also allows the user to leave comments about their employees. The app includes a dashboard that analyzes the ratings using a radar plot and performs sentiment analysis on the received comments.
 
 [Project Link](https://employee-review.azurewebsites.net/)
 
